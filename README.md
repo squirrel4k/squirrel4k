@@ -6,8 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [rousseau.corentin@gmail.com](mailto:rousseau.corentin@gmail.com)
-* 🚀  I'm currently working on [Pix](http://pix.fr/)
-* 🧠  I'm learning Ember & Art
 
 ### Skills
 
